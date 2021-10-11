@@ -1,3 +1,7 @@
+# Note
+
+This is unmaintained fork of [xni06/flutter_map_location](https://github.com/xni06/flutter_map_location.git) which itself is a fork of [Xennis/flutter_map_location](https://github.com/Xennis/flutter_map_location). This plugin is no longer maintained but this fork contains updated dependencies in order to have working build in newer versions of iOS/Android.
+
 # Flutter Map – Location plugin
 
 [![Flutter](https://github.com/Xennis/flutter_map_location/workflows/Flutter/badge.svg?branch=main&event=push)](https://github.com/Xennis/flutter_map_location/actions?query=workflow%3A%22Flutter%22+event%3Apush+branch%3Amain) [![Pub](https://img.shields.io/pub/v/flutter_map_location.svg)](https://pub.dev/packages/flutter_map_location)
